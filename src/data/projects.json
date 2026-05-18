@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Project Name Here",
+    "description": "Brief description of the project, what you did, and what the outcome was.",
+    "type": "Academic",
+    "tools": ["Excel", "Word"],
+    "year": "2025",
+    "status": "Completed",
+    "profit": "A"
+  },
+  {
+    "id": 2,
+    "name": "Project Name Here",
+    "description": "Brief description of the project, what you did, and what the outcome was.",
+    "type": "Academic",
+    "tools": ["Excel"],
+    "year": "2025",
+    "status": "Completed",
+    "profit": "A"
+  },
+  {
+    "id": 3,
+    "name": "Project Name Here",
+    "description": "Brief description of the project, what you did, and what the outcome was.",
+    "type": "Extracurricular",
+    "tools": ["Excel", "Power BI"],
+    "year": "2025",
+    "status": "Completed",
+    "profit": "N/A"
+  }
+]
